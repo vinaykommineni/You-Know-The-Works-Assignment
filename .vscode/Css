@@ -1,0 +1,93 @@
+.main-bg-container {
+    background-color: #ffa1a9;
+    min-height: 100vh;
+    min-width: 100vw;
+    font-family: "Roboto";
+    color: #3c386d;
+}
+
+.title-container {
+    max-width: 20%;
+}
+
+.icon {
+    color: #3c386d;
+    width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon-title {
+    color: #3c386d;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.profile-desc {
+    max-width: 100%;
+}
+
+.first-para {
+    font-weight: 500;
+}
+
+.first-para-b {
+    font-weight: bolder;
+}
+
+.profile-details {
+    padding: 10px;
+    border-right: 3px solid #3c386d;
+    border-bottom: 3px solid #3c386d;
+    height: 240px;
+    width: 100%;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+.profile-head {
+    font-weight: bold;
+}
+
+.profile-details-add {
+    padding: 12px;
+    border-bottom: 3px solid #3c386d;
+    height: 240px;
+    overflow: hidden;
+    width: 100%;
+}
+
+.skill-details {
+    border-top: 3px solid #3c386d;
+    padding-bottom: 10px;
+}
+
+.skills-para {
+    margin-right: 6px;
+    font-size: 12px;
+    flex-grow: 1;
+}
+
+.dots {
+    margin-left: auto;
+    width: 30%;
+    height: 15%;
+}
+
+.interests {
+    margin-top: auto;
+    border-bottom: 3px solid #3c386d;
+
+}
+
+.int {
+    width: 100px;
+    padding: 12px;
+}
+
+.education-details {
+    border-bottom: 3px solid #3c386d;
+}

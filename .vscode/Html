@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/20c5629a29.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="main-bg-container">
+        <div class="container-fluid">
+            <div class="row p-3 d-flex">
+                <div class="col-md-4 d-flex flex-column justify-content-center title-container mr-3">
+                    <img src="https://i.postimg.cc/pr2XNf27/profile.png" class="icon" />
+                    <p class="icon-title">PROFILE</p>
+                </div>
+                <div class="col-md-8 d-flex profile-desc">
+                    <div class="profile-details">
+                        <h1 class="profile-head">CAROLINE<br /> THOMPSON</h1>
+                        <p>ART DIRECTOR</p>
+                    </div>
+                    <div class="profile-details-add">
+                        <p>Advertising campaigns are my forte.<br />I have been in the industry for 6 years.<br /><br />Address: Los Angeles, California<br />Phone: (+87) 834 2934 2344<br />Website: carolinethompson.com</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row p-3 d-flex">
+                <div class="col-md-4 d-flex flex-column justify-content-center title-container mr-3">
+                    <img src="https://i.postimg.cc/zB46K5Qk/work.png" class="icon" />
+                    <p class="icon-title">WORK</p>
+                </div>
+                <div class="col-md-8 work-details">
+                    <div class="d-flex">
+                        <p class="first-para mr-4">2022 - 2023</p>
+                        <p class="first-para"><span class="first-para-b">Creative Minds Graphic Design Studio California - Senior Art Director</span><br />Generating and developing ideas to present to the client</p>
+                    </div>
+                    <div class="d-flex">
+                        <p class="first-para mr-4">2021 - 2022</p>
+                        <p class="first-para"><span class="first-para-b">Mega Giants Publishing and Studio - Junior Art Director</span><br />Working on designs to produce an effective advertising campaign</p>
+                    </div>
+                    <div class="d-flex">
+                        <p class="first-para mr-4">2020 - 2021</p>
+                        <p class="first-para"><span class="first-para-b">Big Ideas Inc - Assistant Art Director</span><br />Commissioning specialists, such as artists, to work on projects.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row p-3 d-flex">
+                <div class="col-md-4 d-flex flex-column justify-content-center title-container mr-3">
+                    <img src="https://i.postimg.cc/3w6W4SXH/skill.png" class="icon" />
+                    <p class="icon-title">SKILLS &<br />AWARDS</p>
+                </div>
+                <div class="col-md-8 d-flex skill-details">
+                    <div class="profile-details">
+                        <div class="d-flex">
+                            <p class="skills-para">UI/UX</p>
+                            <img src="https://i.postimg.cc/VvDnr9DQ/3-dots.png" class="dots" />
+                        </div>
+                        <div class="d-flex">
+                            <p class="skills-para">Growth Marketing</p>
+                            <img src="https://i.postimg.cc/0NbW8j5y/5-dots.png" class="dots" />
+                        </div>
+                        <div class="d-flex">
+                            <p class="skills-para">Typography</p>
+                            <img src="https://i.postimg.cc/mgwkbZXJ/2-dots.png" class="dots" />
+                        </div>
+                        <div class="d-flex">
+                            <p class="skills-para">Video Production</p>
+                            <img src="https://i.postimg.cc/0NbW8j5y/5-dots.png" class="dots" />
+                        </div>
+                        <div class="d-flex">
+                            <p class="skills-para">Print Design</p>
+                            <img src="https://i.postimg.cc/VvDnr9DQ/3-dots.png" class="dots" />
+                        </div>
+                    </div>
+                    <div class="profile-details-add">
+                        <div class="d-flex">
+                            <p class="first-para mr-4">2019</p>
+                            <p class="first-para"><span class="first-para-b">Suiton Design Awards</span><br />10 Graphic Designer</p>
+                        </div>
+                        <div class="d-flex">
+                            <p class="first-para mr-4">2019</p>
+                            <p class="first-para"><span class="first-para-b">Graphic London Award</span><br />Winning Entry: Poster Design</p>
+                        </div>
+                        <div class="d-flex">
+                            <p class="first-para mr-4">2019</p>
+                            <p class="first-para"><span class="first-para-b">LA Creatives Award</span><br />Winning Entry: Ad Campaign</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row p-3 d-flex">
+                <div class="col-md-4 d-flex flex-column justify-content-center title-container mr-3">
+                    <img src="https://i.postimg.cc/xd3vVSM1/interests.png" class="icon" />
+                    <p class="icon-title">INTERESTS</p>
+                </div>
+                <div class="col-md-8 interests d-flex justify-content-center">
+                    <div class="d-flex flex-column justify-content-center">
+                        <img class="icon int" src="https://i.postimg.cc/fkQybVhn/internet.png" />
+                        <p class="icon-title">Internet</p>
+                    </div>
+                    <div class="d-flex flex-column justify-content-center">
+                        <img class="icon int" src="https://i.postimg.cc/Hky1pTYH/sketching.png" />
+                        <p class="icon-title">Sketching</p>
+                    </div>
+                    <div class="d-flex flex-column justify-content-center">
+                        <img class="icon int" src="https://i.postimg.cc/Hsrf2T75/Movies.png" />
+                        <p class="icon-title">Movies</p>
+                    </div>
+                    <div class="d-flex flex-column justify-content-center">
+                        <img class="icon int" src="https://i.postimg.cc/LXsy8Vtf/Music.png" />
+                        <p class="icon-title">Music</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row p-3 d-flex">
+                <div class="col-md-4 d-flex flex-column justify-content-center title-container mr-3">
+                    <img src="https://i.postimg.cc/RZ92zKD1/Education.png" class="icon" />
+                    <p class="icon-title">EDUCATION</p>
+                </div>
+                <div class="col-md-8 education-details">
+                    <div class="d-flex">
+                        <p class="first-para mr-4">2016 - 2020</p>
+                        <p class="first-para"><span class="first-para-b">Alabama College of Design and Technology. Cum Laude</span><br />Bachelor of Fine Arts Major in Advertising</p>
+                    </div>
+                    <div class="d-flex">
+                        <p class="first-para mr-4">2013 - 2016</p>
+                        <p class="first-para"><span class="first-para-b">Helena All Girls Senior High School. Valedictorian</span><br />President of Art and Design Club</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
